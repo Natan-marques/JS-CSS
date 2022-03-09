@@ -1,8 +1,11 @@
+:root {
+  --cor-de-fundo: #ff0000;
+}
 body,
 html {
   width: 100%;
   height: 100%;
-  background-color: aqua;
+  background-color: var(--cor-de-fundo);
 }
 
 * {
