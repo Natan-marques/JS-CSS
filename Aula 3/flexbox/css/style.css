@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #47378f;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #8a2be2;
+  width: 500px;
+  height: 200px;
+}
+
+.box1, 
+.box2, 
+.box3, 
+.box4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  background-color: #dbc6e9;
+}
